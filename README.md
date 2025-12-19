@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7A3DF0&center=true&vCenter=true&width=520&lines=Hello%2C+this+is+Kabya+Hassan" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7A3DF0&center=true&vCenter=true&width=520&lines=Hi+There%2C+This+is+Kabya+Hassan..." alt="Typing Header" />
 </p>
 
 <p align="center">
@@ -33,26 +33,23 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 ## 🛠️ Technical Skills
 - **Computer Vision:** YOLOv8 Training, Dataset Preparation & Augmentation  
 - **Backend Development:** Server-side fundamentals  
-- **Tools & Practices:** Git, GitHub, basic ML pipelines
+- **Tools & Practices:** Git, GitHub
 
 ---
 
 ## 💼 Experience & Activities
 
-### Projukti Lipi — Department Head, Human Resources
+### Projukti Lipi — Head of Department, Human Resources
 - Leading HR operations and contributing to tech-focused projects.
 
 ### BRAC University Computer Club (BUCC) — Senior Executive, Human Resources
-- Managing member coordination, interviews, and internal operations.
-
-### IEEE BRAC University Student Branch — General Member
-- Participating in robotics and automation-related activities and events.
+- Managing member coordination, recruitments, and internal operations.
 
 ### BRAC University — Volunteer, 17th Convocation
-- Assisted in event coordination, guest management, and on-ground operations.
+ 
+### IEEE BRAC University Student Branch — General Member
 
 ### Department of Admissions Outreach, BRAC University — Volunteer *(2024–present)*
-- Supporting outreach programs and student engagement initiatives.
 
 ---
 
@@ -86,6 +83,6 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 </p>
 
 <p align="center">
-  ✨ Always learning, contributing, and moving forward.
+  ✨ In the End, Learning is what truely matters!
 </p>
 
