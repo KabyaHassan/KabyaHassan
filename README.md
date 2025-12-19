@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&pause=5&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
-    alt="Techy Typing Header" 
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=10&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
+    alt="Typing Header" 
   />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kabya-hassan-a99835351" target="_blank">
