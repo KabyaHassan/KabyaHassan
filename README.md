@@ -23,10 +23,10 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 ---
 
 ### 🛠️ Technical Skills
-- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Computer Vision:** ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F61?style=flat-square), ![CVAT](https://img.shields.io/badge/CVAT-0099FF?style=flat-square)
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Computer Vision:** ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F61?style=flat-square) ![CVAT](https://img.shields.io/badge/CVAT-0099FF?style=flat-square)
 - **Backend Development:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-- **Tools & Practices:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Tools & Practices:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 ---
@@ -52,16 +52,24 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 
 ---
 
-## 🌍 Languages
-- **Bangla:** Native  
-- **English:** Proficient
-
----
-
 ## 🤝 Soft Skills
 - Anchoring  
 - Recitation  
 - Communication & Team Coordination
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KabyaHassan&show_icons=true&theme=tokyonight&hide_border=false&title_color=7faaff&icon_color=95bfff&text_color=bfdfff&bg_color=0f1e4f" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabyaHassan&layout=compact&theme=tokyonight&hide_border=false&title_color=7faaff&text_color=bfdfff&bg_color=0f1e4f" 
+    height="165" 
+  />
+</p>
+
 
 ---
 
@@ -74,7 +82,7 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 ---
 
 <p align="center">
-  ✨ In the End, Learning is what truely matters!
+  ✨ In the End, Learning is what truely matters! ✨
 </p>
 
 ---
