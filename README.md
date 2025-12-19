@@ -1,16 +1,91 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7A3DF0&center=true&vCenter=true&width=520&lines=Hello%2C+this+is+Kabya+Hassan" alt="Typing Header" />
+</p>
 
-<!--
-**KabyaHassan/KabyaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kabya-hassan-a99835351" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" />
+  </a>
+  <a href="https://github.com/KabyaHassan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="35" />
+  </a>
+  <a href="mailto:kabya.hassan27@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="55" height="35" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿 About Me
+I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
+My interests include **computer vision**, **YOLOv8 model training**, and **backend development**.  
+I enjoy learning by building, contributing to tech communities, and engaging in leadership and volunteering roles that create real impact.
+
+---
+
+## 🎓 Education
+- **B.Sc. in Computer Science & Engineering** — BRAC University *(2023–2027, ongoing)*
+- **Higher Secondary Certificate (HSC)** — Viqarunnisa Noon College *(2022)*
+- **Secondary School Certificate (SSC)** — Viqarunnisa Noon School *(2020)*
+
+---
+
+## 🛠️ Technical Skills
+- **Computer Vision:** YOLOv8 Training, Dataset Preparation & Augmentation  
+- **Backend Development:** Server-side fundamentals  
+- **Tools & Practices:** Git, GitHub, basic ML pipelines
+
+---
+
+## 💼 Experience & Activities
+
+### Projukti Lipi — Department Head, Human Resources
+- Leading HR operations and contributing to tech-focused projects.
+
+### BRAC University Computer Club (BUCC) — Senior Executive, Human Resources
+- Managing member coordination, interviews, and internal operations.
+
+### IEEE BRAC University Student Branch — General Member
+- Participating in robotics and automation-related activities and events.
+
+### BRAC University — Volunteer, 17th Convocation
+- Assisted in event coordination, guest management, and on-ground operations.
+
+### Department of Admissions Outreach, BRAC University — Volunteer *(2024–present)*
+- Supporting outreach programs and student engagement initiatives.
+
+---
+
+## 🏅 Achievements
+- **Bronze Standard (2025)** — Duke of Edinburgh’s International Award
+
+---
+
+## 🌍 Languages
+- **Bangla:** Native  
+- **English:** Proficient
+
+---
+
+## 🤝 Soft Skills
+- Anchoring  
+- Recitation  
+- Communication & Team Coordination
+
+---
+
+## 📫 Contact & Profiles
+- **Email:** kabya.hassan27@gmail.com  
+- **GitHub:** https://github.com/KabyaHassan  
+- **LinkedIn:** https://www.linkedin.com/in/kabya-hassan-a99835351
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KabyaHassan&label=Profile+Views&color=7A3DF0&style=flat" />
+</p>
+
+<p align="center">
+  ✨ Always learning, contributing, and moving forward.
+</p>
+
