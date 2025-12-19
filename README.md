@@ -5,22 +5,9 @@
   />
 </p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kabya-hassan-a99835351" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" />
-  </a>
-  <a href="https://github.com/KabyaHassan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="35" />
-  </a>
-  <a href="mailto:kabya.hassan27@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="55" height="35" />
-  </a>
-</p>
-
 ---
 
-## About Me
+## 🤖About Me
 I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
 My interests include **computer vision**, **YOLOv8 model training**, and **backend development**.  
 I enjoy learning by building, contributing to tech communities, and engaging in leadership and volunteering roles that create real impact.
@@ -35,8 +22,9 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 ---
 
 ## 🛠️ Technical Skills
+- **Programming Languages:** Java, Python  
 - **Computer Vision:** YOLOv8 Training, Dataset Preparation & Augmentation  
-- **Backend Development:** Server-side fundamentals  
+- **Backend Development:** Server-side fundamentals, FastAPI  
 - **Tools & Practices:** Git, GitHub
 
 ---
@@ -50,7 +38,7 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 - Managing member coordination, recruitments, and internal operations.
 
 ### BRAC University — Volunteer, 17th Convocation
- 
+
 ### IEEE BRAC University Student Branch — General Member
 
 ### Department of Admissions Outreach, BRAC University — Volunteer *(2024–present)*
@@ -75,18 +63,20 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
 
 ---
 
-## 📫 Contact & Profiles
-- **Email:** kabya.hassan27@gmail.com  
-- **GitHub:** https://github.com/KabyaHassan  
-- **LinkedIn:** https://www.linkedin.com/in/kabya-hassan-a99835351
+## 🌐 Platforms & Profiles
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" /> **LinkedIn:** [Kabya Hassan](https://www.linkedin.com/in/kabya-hassan-a99835351)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> **GitHub:** [@KabyaHassan](https://github.com/KabyaHassan)  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20" /> **Email:** kabya.hassan27@gmail.com  
+- **Codeforces:** [Kabya27](https://codeforces.com/profile/Kabya27)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KabyaHassan&label=Profile+Views&color=7A3DF0&style=flat" />
-</p>
 
 <p align="center">
   ✨ In the End, Learning is what truely matters!
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KabyaHassan&label=Profile+Views&color=765794&style=flat" />
+</p>
