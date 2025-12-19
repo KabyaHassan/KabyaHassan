@@ -1,5 +1,4 @@
 
-You said:
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=10&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
@@ -9,15 +8,25 @@ You said:
 
 ---
 
-## ✨ About Me
-I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
-My interests include **computer vision**, **YOLOv8 model training**, and **backend development**.  
-I enjoy learning by building, contributing to tech communities, hosting events and engaging in leadership and volunteering roles that create real impact.
+<h2 align="center"> About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=24&pause=1000&color=695F73&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+@+BRACU;AI+%26+Computer+Vision+Explorer;Backend+Development+Enthusiast;Building+Human-Centric+Solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I am a <b>Computer Science & Engineering undergraduate</b> at <b>BRAC University</b> (2023–2027) with a passion for <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Image Processing</b>. My technical journey involves building projects, exploring <b>Computer Vision with YOLOv8</b>, and developing <b>Backend systems</b>. 
+</p>
+
+<p align="center">
+  Complementing my technical focus, I am actively engaged in hosting events, leadership, and volunteering. By bridging the gap between research and community impact, I aim to build <b>intelligent solutions</b> that serve people.
+</p>
+
 
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 - **B.Sc. in Computer Science & Engineering** — BRAC University *(2023–2027, ongoing)*
 - **Higher Secondary Certificate (HSC)** — Viqarunnisa Noon College *(2022)*
 - **Secondary School Certificate (SSC)** — Viqarunnisa Noon School *(2020)*
@@ -33,7 +42,7 @@ I enjoy learning by building, contributing to tech communities, hosting events a
 
 ---
 
-## 💼 Experience & Activities
+### 💼 Experience & Activities
 
 ### Projukti Lipi — Head of Department, Human Resources
 - Leading HR operations and contributing to tech-focused projects.
@@ -49,7 +58,7 @@ I enjoy learning by building, contributing to tech communities, hosting events a
 
 ---
 
-## 🏅 Achievements
+### 🏅 Achievements
 - **Bronze Standard (2025)** — Duke of Edinburgh’s International Award
 
 ---
@@ -68,7 +77,7 @@ I enjoy learning by building, contributing to tech communities, hosting events a
 
 ---
 
-## 🌐 Platforms & Profiles
+### 🌐 Platforms & Profiles
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" /> **LinkedIn:** [Kabya Hassan](https://www.linkedin.com/in/kabya-hassan-a99835351)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> **GitHub:** [@KabyaHassan](https://github.com/KabyaHassan)  
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20" /> **Email:** kabya.hassan27@gmail.com  
