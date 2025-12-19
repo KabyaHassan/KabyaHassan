@@ -70,7 +70,7 @@ I enjoy learning by building, contributing to tech communities, and engaging in 
   <li>Communication & Team Coordination</li>
 </ul>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=KabyaHassan&show_icons=true&theme=tokyonight&hide_border=false&title_color=7faaff&icon_color=95bfff&text_color=bfdfff&bg_color=0f1e4f" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabyaHassan&layout=compact&theme=tokyonight&hide_border=false&title_color=7faaff&text_color=bfdfff&bg_color=0f1e4f" height="165" />
 </p>
