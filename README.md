@@ -7,10 +7,11 @@
 
 ---
 
-## 🤖About Me
-I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
+## About Me
+🤖 I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
 My interests include **computer vision**, **YOLOv8 model training**, and **backend development**.  
 I enjoy learning by building, contributing to tech communities, and engaging in leadership and volunteering roles that create real impact.
+
 
 ---
 
