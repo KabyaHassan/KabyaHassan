@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=10&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&pause=25&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
     alt="Typing Header" 
   />
 </p>
@@ -11,7 +11,7 @@
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=24&pause=1000&color=695F73&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+@+BRACU;AI+%26+Computer+Vision+Explorer;Backend+Development+Enthusiast;Building+Human-Centric+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=24&pause=22&color=695F73&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+@+BRACU;AI+%26+Computer+Vision+Explorer;Backend+Development+Enthusiast;Building+Human-Centric+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
