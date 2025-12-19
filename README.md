@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7A3DF0&center=true&vCenter=true&width=520&lines=Hi+there%2C+This+is+Kabya+Hassan" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F1C40F&center=true&vCenter=true&width=520&lines=Hi%2C+There!+This+is+Kabya+Hassan+%E2%9C%A8" alt="Typing Header" />
 </p>
 
 <p align="center">
