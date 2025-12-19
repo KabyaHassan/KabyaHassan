@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F1C40F&center=true&vCenter=true&width=520&lines=Hi%2C+There!+This+is+Kabya+Hassan+%E2%9C%A8" alt="Typing Header" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&pause=5&color=765794&center=true&vCenter=true&width=520&repeat=false&lines=Hello+World%21+%E2%9C%A8;[>+This+is+KABYA+HASSAN+<]" 
+    alt="Techy Typing Header" 
+  />
 </p>
 
 <p align="center">
@@ -16,7 +19,7 @@
 
 ---
 
-## 🌿 About Me
+## About Me
 I am a **Computer Science & Engineering undergraduate** at **BRAC University** (2023–2027).  
 My interests include **computer vision**, **YOLOv8 model training**, and **backend development**.  
 I enjoy learning by building, contributing to tech communities, and engaging in leadership and volunteering roles that create real impact.
