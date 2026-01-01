@@ -82,6 +82,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> **GitHub:** [@KabyaHassan](https://github.com/KabyaHassan)  
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20" /> **Email:** kabya.hassan27@gmail.com  
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="20" height="20" /> **Codeforces:** [Kabya27](https://codeforces.com/profile/Kabya27)
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="20" height="20" /> **LeetCode:** [KabyaHassan](https://leetcode.com/profile/)
+
 
 ---
 
