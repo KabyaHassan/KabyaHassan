@@ -44,7 +44,7 @@
 
 ### 💼 Experience & Activities
 
-### Projukti Lipi — Head of Department, Human Resources
+### Projukti Lipi — Human Resources
 - Leading HR operations and contributing to tech-focused projects.
 
 ### BRAC University Computer Club (BUCC) — Senior Executive, Human Resources
