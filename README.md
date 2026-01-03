@@ -52,7 +52,7 @@
 
 ### BRAC University — Volunteer, 17th Convocation
 
-### IEEE BRAC University Student Branch(Robotics & Animation Society)— General Member
+### IEEE BRAC University Student Branch( Robotics & Automation Society)— General Member
 
 ### Department of Admissions Outreach, BRAC University — Volunteer *(2024–present)*
 
