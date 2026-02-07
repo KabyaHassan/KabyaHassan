@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  ✨ In the End, Learning is what truely matters! ✨
+  ✨ One Ending, Counless Beginnings! ✨
 </p>
 
 ---
