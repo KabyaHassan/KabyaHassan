@@ -47,7 +47,7 @@
 ### Projukti Lipi — Human Resources
 - Leading HR operations and contributing to tech-focused projects.
 
-### BRAC University Computer Club (BUCC) — Senior Executive, Human Resources
+### BRAC University Computer Club (BUCC) — Director, Human Resources
 - Managing member coordination, recruitments, and internal operations.
 
 ### BRAC University — Volunteer, 17th Convocation
